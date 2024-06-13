@@ -1,17 +1,0 @@
-
-Š
-java:S6813"BRemove this field injection and use constructor injection instead.(¥ÛÀùÿÿÿÿ8ä¯øœ2J$1e520db7-2d43-40af-96d1-753cbb5639a7
-h
-java:S1452"&Remove usage of generic wildcard type.(Æ±¹h8è¯øœ2J$53d03c6e-a770-4880-be36-2cdacffa57a1
-ƒ	java:S125"<This block of commented-out lines of code should be removed.(·íå¾ùÿÿÿÿ8è¯øœ2J$8f354c97-18be-4c2f-90b3-bb16592d1b5c
-l	java:S106""+Replace this use of System.out by a logger.(éÁ¯;8é¯øœ2J$39b3f040-aecc-4e6c-b902-8d37f4cbb44e
-n
-java:S1452)"&Remove usage of generic wildcard type.(¸’Ûùÿÿÿÿ8ê¯øœ2J$0709f960-d48b-4ccc-9b63-c310261bc143
-m	java:S1062"+Replace this use of System.out by a logger.(ÆÀûı8ë¯øœ2J$689b6d10-7eeb-44af-8e65-06d8f0331f75
-i
-java:S1452:"&Remove usage of generic wildcard type.(Œ‘‚¸8ì¯øœ2J$78a92eb5-827a-44f1-bbd1-b846872000c3
-d
-java:S1116>"Remove this empty statement.(Åñ­õşÿÿÿÿ8ì¯øœ2J$0f2b33fa-63fa-42c4-abd5-60be7aa463cd
-m	java:S106A"+Replace this use of System.out by a logger.(ÆÀûı8í¯øœ2J$b8b79081-f19e-44ca-b0cf-09ee5a366ce5
-‡
-java:S1128	"DRemove this unused import 'org.springframework.web.bind.annotation'.(Ñ»ïÒ8×Ññœ2J$3a26d83e-bccc-424d-a2f6-639199c01162

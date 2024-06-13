@@ -1,13 +1,46 @@
+# macOS
 .DS_Store
-.bloop/
-.bsp/
+
+# IntelliJ IDEA
 .idea/
+*.iml
+*.iws
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# VS Code
+.vscode/
+
+# Metals (for Scala development)
+.bloop/
+.metals
+
+# Maven
+target/
+.mvn/
+
+# Logs
+logs/
+
+# Custom directories
 mainProject/
 project/
-target/
-.metals
-.vscode
-.mvn
-logs
+
+# Temporary files
+*.tmp
+
+# Backup files
+*.bak
+
+# SQL files (if you don't want to track them)
 src/test/resources/h2_world.sql
 
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Other
+*.log
