@@ -1,0 +1,8 @@
+
+¶
+java:S1488+"nImmediately return this expression instead of assigning it to the temporary variable "namedParamJdbcTemplate".(ê±™÷ùÿÿÿÿ8õ§„2J$470b3981-0e61-4ed6-a61b-8a11203c0854
+r	java:S106"+Replace this use of System.out by a logger.(†˜¼…ùÿÿÿÿ8î¾‡2J$69c572be-7f4c-4fa4-a6b1-7fd55ce3b21c
+r	java:S106"+Replace this use of System.out by a logger.(•áß«úÿÿÿÿ8î¾‡2J$a5944b7a-5975-4072-bd9a-24f8c6115ff5
+m	java:S106"+Replace this use of System.out by a logger.(¿¥™™8î¾‡2J$f7b95f1f-1309-4e61-a87d-2ae4787c6670
+m	java:S106"+Replace this use of System.out by a logger.(àÁÆû8ï¾‡2J$a2f7fe35-cebd-4ea0-b7ee-f4b019762b94
+~	java:S1250"<This block of commented-out lines of code should be removed.(ŸîãÎ8ú¾‡2J$00f3bc38-dd6b-4f62-8329-a65645b3fc43

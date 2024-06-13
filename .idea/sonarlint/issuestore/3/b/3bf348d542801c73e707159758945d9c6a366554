@@ -1,0 +1,8 @@
+
+ƒ
+java:S5838,";Use assertThat(actual).hasToString(expectedString) instead.(´šÏãüÿÿÿÿ8ğÉ€2J$ac8e81ec-5cba-42e0-9177-733930a7be7e
+
+java:S58459"JChange the assertion arguments to not compare a primitive value with null.(æé×8¥ĞÒÈ€2J$639d636a-3a8b-41d6-8599-bd74cd78a0b8
+ƒ	java:S125D"<This block of commented-out lines of code should be removed.(ÀÍ¾Ôıÿÿÿÿ8¥ĞÒÈ€2J$1e332467-dcf5-4547-bee4-891a6b881c48
+u
+java:S1128"SRemove this unused import 'org.springframework.beans.factory.annotation.Qualifier'.(íàÄ®ıÿÿÿÿ8ıÔĞ2

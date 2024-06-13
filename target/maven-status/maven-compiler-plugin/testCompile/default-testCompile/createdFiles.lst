@@ -1,0 +1,5 @@
+com/klxsolutions/worldgdp/test/dao/CountryDAOTest.class
+com/klxsolutions/worldgdp/test/dao/CityDAOTest.class
+com/klxsolutions/worldgdp/test/dao/CountryLanguageDAOTest.class
+com/klxsolutions/worldgdp/test/dao/LookupDAOTest.class
+com/klxsolutions/worldgdp/test/config/TestDBConfiguration.class
